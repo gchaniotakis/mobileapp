@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">StartApp</string>
+    <string name="HelloWorldString">Hello World!</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Swift</item>
+        <item>C#</item>
+        <item>SQL</item>
+        <item>JavaScript</item>
+        <item>jQuery</item>
+        <item>C++</item>
+    </string-array>
+
+    <string-array name="LanguageDesc">
+        <item>Description of Java.</item>
+        <item>Description of Swift.</item>
+        <item>Description of C#.</item>
+        <item>Description of SQL.</item>
+        <item>Description of JavaScript.</item>
+        <item>Description of jQuery.</item>
+        <item>Description of C++.</item>
+    </string-array>
+
+    <array name="LanguageImage">
+        <item>Image for Java.</item>
+        <item>Image for Swift.</item>
+        <item>Image for C#.</item>
+        <item>Image for SQL.</item>
+        <item>Image for JavaScript.</item>
+        <item>Image for jQuery.</item>
+        <item>Image for C++.</item>
+    </array>
 </resources>
